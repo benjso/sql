@@ -9,9 +9,10 @@ At the minimum it should have employee, order, sales, customer, and book entitie
 Benjamin Su's answer here:
 
 ERD - Type 1
+```
 ![SQL_Model_Design_Type1.png](./SQL_Model_Design_Type1.png)
 
-```
+
 ## Question 2
 We want to create employee shifts, splitting up the day into morning and evening. Add this to the ERD.
 ```
@@ -33,6 +34,7 @@ ERD - Type 1 - Overwrite address changes
 Please refer to the diagram above in Question 1
 
 ERD - Type 2 - Retain address changes
+```
 ![SQL_Model_Design_Type2.png](./SQL_Model_Design_Type2.png)
 
 ```
